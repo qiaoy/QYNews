@@ -1,0 +1,33 @@
+//
+//  QYN.pch
+//  QYNews
+//
+//  Created by qiaoyan on 15/10/7.
+//  Copyright (c) 2015年 qiaoyan. All rights reserved.
+//
+
+#ifndef QYNews_QYN_pch
+#define QYNews_QYN_pch
+
+#import "Define.h"
+#import "UIView+Ext.h"
+#import "MMProgressHUD.h"
+#import "NetDataEngine.h"
+#import "SettingViewController.h"
+
+#import "CollectionViewController.h"
+#import "ChannelViewController.h"
+#import "TitleScrollView.h"
+#import "EditButton.h"
+#import "DrawerView.h"
+#import "BackgroundView.h"
+#import "InfoViewController.h"
+#import "OfflineSetViewController.h"
+#import "TimeChannel.h"
+#import "NewModel.h"
+#import "CustomUIFactory.h"
+#import "NFKDBManager.h"
+#import "ContentModel.h"
+#import "UMSocial.h"
+
+#endif
